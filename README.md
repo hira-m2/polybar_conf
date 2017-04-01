@@ -3,7 +3,7 @@ My Polybar configuration for i3
 
 **warning this guide is not completed!!!**
 
-1- Install polybar.
-2- Copy config file to ~/.config/polybar
-3- execute fallow command
+1. Install polybar.
+2. Copy config file to ~/.config/polybar
+3. execute fallow command:
   > ~/.config/polybar/launch.sh
