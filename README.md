@@ -7,3 +7,5 @@ My Polybar configuration for i3
 2. Copy config file to ~/.config/polybar
 3. execute fallow command:
   > ~/.config/polybar/launch.sh
+
+  ![alt tag](https://github.com/mehdi-m2/polybar_conf/blob/master/Screenshots/1.png?raw=true)
